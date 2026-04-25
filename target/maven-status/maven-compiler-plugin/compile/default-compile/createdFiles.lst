@@ -1,8 +1,0 @@
-com/rentalsystem/VehicleRentalSystemApplication.class
-com/rentalsystem/customer/CustomerController.class
-com/rentalsystem/payment/PaymentController.class
-com/rentalsystem/admin/AdminController.class
-com/rentalsystem/booking/BookingController.class
-com/rentalsystem/review/ReviewController.class
-com/rentalsystem/core/HomeController.class
-com/rentalsystem/vehicle/VehicleController.class
